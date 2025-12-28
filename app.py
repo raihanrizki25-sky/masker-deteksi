@@ -6,7 +6,7 @@ import json
 from PIL import Image
 
 st.set_page_config(page_title="Deteksi Masker", page_icon="😷")
-st.title("😷 Deteksi Masker (CNN + DNN Face Detector)")
+st.title("😷 Deteksi Masker (CNN)")
 
 # =====================
 # LOAD MODEL CNN
